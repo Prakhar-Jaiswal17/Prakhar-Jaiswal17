@@ -28,7 +28,7 @@ Welcome to my GitHub! I’m passionate about building useful web projects, explo
 
 ---
 
-## 📊 Language Chart
+## 📊 Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar-Jaiswal17&layout=compact&theme=radical)
 
@@ -55,13 +55,14 @@ Welcome to my GitHub! I’m passionate about building useful web projects, explo
 
 ## 🟩 Contribution Calendar
 
-[![Prakhar's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Prakhar-Jaiswal17&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prakhar-Jaiswal17&theme=react-dark)
+
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution
 
-![Snake animation](https://github.com/Prakhar-Jaiswal17/Prakhar-Jaiswal17/blob/output/github-contribution-grid-snake.svg)
+![Contribution Chart](https://github.com/Prakhar-Jaiswal17/Prakhar-Jaiswal17/blob/main/github-contribution-grid-snake.svg)
 
 ---
 
