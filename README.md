@@ -60,12 +60,6 @@ Welcome to my GitHub! I’m passionate about building useful web projects, explo
 
 ---
 
-## 🐍 Contribution
-
-![Contribution Chart](https://github.com/Prakhar-Jaiswal17/Prakhar-Jaiswal17/blob/main/github-contribution-grid-snake.svg)
-
----
-
 ## 🌐 Connect With Me
 
 - [LinkedIn](https://in/prakhar-jaiswal-355460255)
