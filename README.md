@@ -62,7 +62,7 @@ Welcome to my GitHub! I’m passionate about building useful web projects, explo
 
 ## 🌐 Connect With Me
 
-- [LinkedIn](https://in/prakhar-jaiswal-355460255)
+- [LinkedIn](https://www.linkedin.com/in/prakhar-jaiswal-355460255/)
 
 ---
 
