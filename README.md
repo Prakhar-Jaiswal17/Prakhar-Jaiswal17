@@ -30,7 +30,7 @@ Welcome to my GitHub! I’m passionate about building useful web projects, explo
 
 ## 📊 Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar-Jaiswal17&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar-Jaiswal17&hide=jupyter%20notebook&theme=radical&layout=compact)
 
 ---
 
