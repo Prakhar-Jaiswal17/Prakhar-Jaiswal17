@@ -26,6 +26,7 @@ Welcome to my GitHub! I’m passionate about building useful web projects, explo
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)
 ![Javascipt](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
+![GoLang](https://img.shields.io/badge/golang-00ADD8?&style=plastic&logo=go&logoColor=white)
 
 ---
 
