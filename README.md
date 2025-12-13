@@ -40,7 +40,7 @@ Welcome to my GitHub! I’m passionate about building useful web projects, explo
 
 | Project                   | Description                                                           | Tech Stack         |
 |---------------------------|-----------------------------------------------------------------------|--------------------|
-| **[COUNTDOWN TIMER](https://countdown-timer-amber-sigma.vercel.app/)** | First gruoup project | HTML,CSS,JS       |
+| **[COUNTDOWN TIMER](https://countdown-timer-amber-sigma.vercel.app/)** | First gruoup project. Javascript written by me | HTML,CSS,JS       |
 | **[Anime-Guru](https://anime-guru-six.vercel.app)** | Anime recommendation site deployed on Vercel | HTML, CSS          |
 | **Google-Replica**        | My first project — Google Homepage clone                              | HTML, CSS          |
 | **TravelX**               | Travel Options, Plans and more                                      | HTML, CSS, CLI     |
