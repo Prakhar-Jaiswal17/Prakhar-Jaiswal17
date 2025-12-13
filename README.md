@@ -12,7 +12,7 @@ Welcome to my GitHub! I’m passionate about building useful web projects, explo
 - 🏫 Newton School of Technology
 - 💡 I enjoy web development, Python, and AI problem solving
 - 🧑‍💻 Always exploring new technologies and frameworks
-- 🌱 Currently learning advanced CSS, CLI, Java, and machine learning basics
+- 🌱 Currently learning DSA in Python and Java, Javascript and machine learning basics
 
 ---
 
@@ -40,9 +40,10 @@ Welcome to my GitHub! I’m passionate about building useful web projects, explo
 
 | Project                   | Description                                                           | Tech Stack         |
 |---------------------------|-----------------------------------------------------------------------|--------------------|
+| **[COUNTDOWN TIMER](https://countdown-timer-amber-sigma.vercel.app/)** | First gruoup project | HTML,CSS,JS       |
 | **[Anime-Guru](https://anime-guru-six.vercel.app)** | Anime recommendation site deployed on Vercel | HTML, CSS          |
 | **Google-Replica**        | My first project — Google Homepage clone                              | HTML, CSS          |
-| **TravelX**               | Learning travel and transit APIs                                      | HTML, CSS, CLI     |
+| **TravelX**               | Travel Options, Plans and more                                      | HTML, CSS, CLI     |
 | **MyRandomProjects**      | A collection of experimental and learning-focused mini projects       | HTML, CSS, Python  |
 | **GoodFirstIssue**        | A resource for beginner open source contributors                      | HTML, CSS, CLI     |
 
