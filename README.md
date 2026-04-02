@@ -2,7 +2,7 @@
 
   <!-- Retro Pixel Typing Effect -->
   <a href="https://github.com/Prakhar-Jaiswal17">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Hi,+I'm+Prakhar+Jaiswal+👾;Player+One:+Ready!;B.Tech+Student+@+Newton+School;CSE+(AI+%26+ML)" alt="Animated Name" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Hi,%20I'm%20Prakhar%20Jaiswal%20%F0%9F%91%BE;Player%20One:%20Ready!;B.Tech%20Student%20@%20Newton%20School;CSE%20(AI%20%26%20ML)" alt="Animated Name" />
   </a>
 
   <h3>🌟 PRESS START TO CONTINUE 🌟</h3>
