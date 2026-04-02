@@ -1,72 +1,93 @@
-# 👋 Hi, I'm Prakhar Jaiswal
+<div align="center">
 
-#### B.Tech student at Newton School of Technology | CSE (AI & ML)
+  <!-- Retro Pixel Typing Effect -->
+  <a href="https://github.com/Prakhar-Jaiswal17">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Hi,+I'm+Prakhar+Jaiswal+👾;Player+One:+Ready!;B.Tech+Student+@+Newton+School;CSE+(AI+%26+ML)" alt="Animated Name" />
+  </a>
 
-Welcome to my GitHub! I’m passionate about building useful web projects, exploring machine learning, and learning through open source collaboration.
+  <h3>🌟 PRESS START TO CONTINUE 🌟</h3>
 
----
+  <p>
+    I am a <b>B.Tech student at Newton School of Technology | CSE (AI & ML)</b>.<br>
+    I love building applications that make a difference, exploring new technologies, and <i>"leveling up"</i> my skills in the open-source world!
+  </p>
 
-## 🚀 About Me
+</div>
 
-- 🙋‍♂️ First-year B.Tech student, specializing in Computer Science (AI & ML)
-- 🏫 Newton School of Technology
-- 💡 I enjoy web development, Python, and AI problem solving
-- 🧑‍💻 Always exploring new technologies and frameworks
-- 🌱 Currently learning DSA in Python and Java, Javascript and machine learning basics
+<br/>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Pixel Space Divider" width="100%">
+</div>
 
-## 🔨 Tech Stack
+## 🕹️ Inventory (Tech Stack & Tools)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
-![CLI](https://img.shields.io/badge/-CLI-555555?logo=gnu-bash&logoColor=fff)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)
-![Javascipt](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
-![GoLang](https://img.shields.io/badge/golang-00ADD8?&style=plastic&logo=go&logoColor=white)
+<div align="center">
+  <i>Primary Weapons</i><br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,go" alt="Web & Languages Tech Stack" />
+</div>
 
----
+<br />
 
-## 📊 Languages
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Pixel Space Divider" width="100%">
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar-Jaiswal17&hide=jupyter%20notebook&theme=radical&layout=compact)
+## 🎮 Quests Completed (Featured Projects)
 
----
+| Project | Description | Source Code |
+|---------|-------------|-------------|
+| **[Weebipedia](https://github.com/Prakhar-Jaiswal17/Weebipedia)** | A comprehensive anime discovery platform with search and filtering. | [View Code](https://github.com/Prakhar-Jaiswal17/Weebipedia) |
+| **[Anime-Guru](https://github.com/Prakhar-Jaiswal17/Anime-Guru)** | Your personal anime companion offering detailed information and recommendations. | [View Code](https://github.com/Prakhar-Jaiswal17/Anime-Guru) |
+| **[Aurora Wallpaper App](https://github.com/Prakhar-Jaiswal17/aurora-wallpaper)** | Live wallpaper application for macOS with dynamic scheduling. | [View Code](https://github.com/Prakhar-Jaiswal17/aurora-wallpaper) |
 
-## 📚 Featured Projects
+<br />
 
-| Project                   | Description                                                           | Tech Stack         |
-|---------------------------|-----------------------------------------------------------------------|--------------------|
-| **[COUNTDOWN TIMER](https://countdown-timer-amber-sigma.vercel.app/)** | First gruoup project. Javascript written by me | HTML,CSS,JS       |
-| **[Anime-Guru](https://anime-guru-six.vercel.app)** | Anime recommendation site deployed on Vercel | HTML, CSS          |
-| **Google-Replica**        | My first project — Google Homepage clone                              | HTML, CSS          |
-| **TravelX**               | Travel Options, Plans and more                                      | HTML, CSS, CLI     |
-| **MyRandomProjects**      | A collection of experimental and learning-focused mini projects       | HTML, CSS, Python  |
-| **GoodFirstIssue**        | A resource for beginner open source contributors                      | HTML, CSS, CLI     |
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Pixel Space Divider" width="100%">
+</div>
 
----
 
-## 📊 GitHub Stats
+## 🏆 Player Stats 
 
-![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prakhar-Jaiswal17&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Prakhar-Jaiswal17&show_icons=true&theme=synthwave&hide_border=true" alt="Player Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Prakhar-Jaiswal17&layout=compact&theme=synthwave&hide_border=true" alt="Top Tools" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Pixel Space Divider" width="100%">
+</div>
+
 ![GitHub streak stats](https://streak-stats.demolab.com?user=Prakhar-Jaiswal17&theme=radical)
 
----
-
-## 🟩 Contribution Calendar
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prakhar-Jaiswal17&theme=react-dark)
 
+## 🐍 Minigame: Contribution Snake
 
----
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prakhar-Jaiswal17/Prakhar-Jaiswal17/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prakhar-Jaiswal17/Prakhar-Jaiswal17/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Prakhar-Jaiswal17/Prakhar-Jaiswal17/output/dist/github-contribution-grid-snake.svg">
+  </picture>
+  <br/>
+</div>
 
-## 🌐 Connect With Me
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Pixel Space Divider" width="100%">
+</div>
 
-- [LinkedIn](https://www.linkedin.com/in/prakhar-jaiswal-355460255/)
-
----
-
-⭐️ Thanks for visiting! Let’s learn and grow together.
+<div align="center">
+  <b>Multiplayer Co-op? Let's connect!</b>
+  <br><br>
+  <a href="mailto:prakharjaiswal.1712@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/prakhar-jaiswal-355460255/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
