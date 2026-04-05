@@ -32,6 +32,9 @@
 <div align="center">
   <i>Primary Weapons</i><br><br>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,go,github,git,vscode" alt="Tech Stack" />
+  <br><br>
+  <i>Spells & Automation</i><br><br>
+  <img src="https://img.shields.io/badge/n8n-%23EA4B3C.svg?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </div>
 
 <br />
