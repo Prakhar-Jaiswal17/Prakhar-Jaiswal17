@@ -31,7 +31,7 @@
 
 <div align="center">
   <i>Primary Weapons</i><br><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,go,github,git,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,electron,nodejs,expressjs,postgresql,github,git" alt="Tech Stack" />
   <br><br>
   <i>Spells & Automation</i><br><br>
   <img src="https://img.shields.io/badge/n8n-%23EA4B3C.svg?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
@@ -48,7 +48,8 @@
 | Project | Description | Source Code |
 |---------|-------------|-------------|
 | **[Weebipedia](https://weebipedia.netlify.app/)** | A comprehensive anime discovery platform with search and filtering. | [View Code](https://github.com/Prakhar-Jaiswal17/Weebipedia) |
-| **[Anime-Guru](https://anime-guru-six.vercel.app/)** | Your personal anime companion offering detailed information and recommendations. | [View Code](https://github.com/Prakhar-Jaiswal17/Anime-Guru) |
+| **[YouTube-Clone](https://you-tube-clone-eta-six.vercel.app/)** | A group project of cloning youtube. | [View Code](https://github.com/Prakhar-Jaiswal17/YouTube-Clone) |
+| **[Smart Meter Extension](https://github.com/Prakhar-Jaiswal17/Smart-Meter-Analytics-Extension)** | A Chrome extension that enhances the CORE smart-meter portal with detailed electricity analytics, interactive charts, and power monitoring. | [View Code](https://github.com/Prakhar-Jaiswal17/Smart-Meter-Analytics-Extension) |
 | **[Aurora Live Wallpaper](https://github.com/Prakhar-Jaiswal17/Aurora-Live-Wallpaper)** | Live wallpaper application for macOS with dynamic scheduling. | [View Code](https://github.com/Prakhar-Jaiswal17/Aurora-Live-Wallpaper) |
 
 <br />
@@ -71,8 +72,6 @@
 </div>
 
 ![GitHub streak stats](https://streak-stats.demolab.com?user=Prakhar-Jaiswal17&theme=radical)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prakhar-Jaiswal17&theme=react-dark)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prakhar-Jaiswal17&theme=tokyonight" width="90%" alt="Profile Summary" />
 
